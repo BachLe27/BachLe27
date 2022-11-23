@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi 👋</h1>
 
-- 🌱 I’m currently learning **ReactJS, Spring Boot, ...**
-- ⚡ Fun fact: love music
-- 😄 A student at FPT University
+- 😄 I'm a student at FPT University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
