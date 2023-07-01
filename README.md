@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <a href="https://fb.com/lecongbach27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lecongbach27" height="30" width="40" /></a>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bachlamsung123&show_icons=true&locale=en" alt="bachlamsung123" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bachlamsung123&show_icons=true&locale=en&layout=compact" alt="bachlamsung123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BachLe27&show_icons=true&locale=en" alt="bachlamsung123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BachLe27&show_icons=true&locale=en&layout=compact" alt="BachLe27" />
 </p>
