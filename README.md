@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1>Hi 👋</h1>
 
 - 😄 I'm a student at FPT University.
-- 🌱 I’m currently learning web development, crawling data, create extension
+- 🌱 I’m currently learning web development, crawling data, chrome extension.
 - 📫 How to reach me: bach.lecong02@gmail.com
 
 <h3 align="left">Connect with me:</h3>
