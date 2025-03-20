@@ -1,23 +1,31 @@
-<!--
-**bachlamsung123/bachlamsung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Le Cong Bach
 
-Here are some ideas to get you started:
+I'm a passionate **Frontend Developer** currently learning and improving my skills in web development.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Hi 👋</h1>
+## 🚀 About Me
 
-- 😄 I'm a student at FPT University.
-- 🌱 I’m currently learning web development, chrome extension.
-- 📫 How to reach me: bach.lecong02@gmail.com
+- 😄 **Name:** Le Cong Bach
+- 📍 **Location:** Vietnam
+- 💻 **Current Role:** Frontend Developer at Eduto Software
+- 🎓 **Education:** FPT University, Bachelor of Software Engineering (2020 - 2024)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/lecongbach27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lecongbach27" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack
+
+- **Frontend:** ReactJS, NextJS, Material UI, Ant Design, TypeScript
+- **Backend:** NodeJS, NestJS, PostgreSQL
+- **Tools:** Git, GitHub, Docker, Figma, Postman, Jira
+
+## 👯 Let's Connect
+
+- [GitHub](https://github.com/BachLe27)
+- [LinkedIn](https://www.linkedin.com/in/bachle27/)
+- [Email](mailto:bach.lecong02@gmail.com)
+- [Facebook](https://fb.com/lecongbach27)
+
+## 🌱 Currently Learning
+
+- Advanced React, Node.js, and UI/UX Design
+
+## 💡 Fun Fact
+
+- I love working on real-world projects that help improve user experiences.
