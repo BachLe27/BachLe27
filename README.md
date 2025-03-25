@@ -17,7 +17,6 @@ I'm a passionate **Frontend Developer** currently learning and improving my skil
 
 ## 👯 Let's Connect
 
-- [GitHub](https://github.com/BachLe27)
 - [LinkedIn](https://www.linkedin.com/in/bachle27/)
 - [Email](mailto:bach.lecong02@gmail.com)
 - [Facebook](https://fb.com/lecongbach27)
