@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** currently learning and improving my skil
 
 - 😄 **Name:** Le Cong Bach
 - 📍 **Location:** Vietnam
-- 💻 **Current Role:** Frontend Developer at Eduto Software
+- 💻 **Current Role:** Frontend Developer
 - 🎓 **Education:** FPT University, Bachelor of Software Engineering (2020 - 2024)
 
 ## 🔧 Tech Stack
